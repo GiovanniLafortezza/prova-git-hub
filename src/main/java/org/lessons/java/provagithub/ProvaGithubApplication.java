@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ProvaGithubApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProvaGithubApplication.class, args);
-	}
+		SpringApplication.run(ProvaGithubApplication.class, args);}
 
 }
